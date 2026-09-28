@@ -7,7 +7,7 @@ public class ApiClient {
 
     // Sesuaikan IP ini
     private static final String BASE_URL =
-            "http://10.51.244.27:8000/api/";
+            "http://10.51.244.27:8000/api/  ";
 
     private static Retrofit retrofit = null;
 
